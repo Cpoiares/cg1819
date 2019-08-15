@@ -1,0 +1,11 @@
+!models/*
+
+# vscode
+.vscode/ipch
+
+# c/c++
+*.o
+
+# bin
+*.out
+*.exe
